@@ -1,0 +1,11 @@
+{
+  "version": "6.0.5",
+  "download_url": "https://github.com/minenoturs2011-ops/Jarvis/releases/latest/download/Jarvis.zip",
+  "changelog": [
+    "Jarvis now updates his own code from GitHub",
+    "Auto-creates config so it runs out of the box",
+    "Updates preserve your memory, settings, and voice",
+    "One-click installer does everything",
+    "Faster responses and smoother orb"
+  ]
+}
