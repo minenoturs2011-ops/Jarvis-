@@ -1,0 +1,11 @@
+{
+  "version": "6.1.3",
+  "download_url": "https://github.com/minenoturs2011-ops/Jarvis-/releases/latest/download/Jarvis.zip",
+  "changelog": [
+    "Quick notes - 'take a note', 'read my notes', 'clear notes'",
+    "Pre-release channel - opt in to test experimental builds early",
+    "Orb stays solid blue while speaking",
+    "Cleaner update restarts",
+    "Stability improvements"
+  ]
+}

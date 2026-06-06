@@ -1,0 +1,12 @@
+{
+  "version": "7.0.0",
+  "prerelease": true,
+  "download_url": "https://github.com/minenoturs2011-ops/Jarvis-/releases/download/v7.0.0-beta/Jarvis.zip",
+  "changelog": [
+    "PRE-RELEASE - experimental, may be unstable",
+    "Jarvis checks for updates on startup and tells you",
+    "Quick notes - take, read, clear notes by voice",
+    "Pre-release channel support",
+    "Faster streaming and steadier orb"
+  ]
+}
