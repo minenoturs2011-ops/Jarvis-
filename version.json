@@ -1,10 +1,10 @@
 {
-  "version": "9.1.1",
+  "version": "9.1.2",
   "download_url": "https://github.com/minenoturs2011-ops/Jarvis-/releases/latest/download/Jarvis.zip",
   "changelog": [
-    "Hollow core - the center is now small rings like the outside, not a solid orb",
-    "UI overhaul - premium rounded input, gradient send button, glowing title",
-    "Cleaner, more futuristic Stark-style interface",
-    "Subtle core energy flicker"
+    "Fixed speech cutting off mid-sentence - speech now plays on one channel and waits",
+    "Larger audio buffer to stop stutter",
+    "Sentence fragments no longer spoken as choppy clips",
+    "HUD pushed further into the corner and bottom, away from the orb"
   ]
 }
