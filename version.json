@@ -1,0 +1,10 @@
+{
+  "version": "8.7.0",
+  "download_url": "https://github.com/minenoturs2011-ops/Jarvis-/releases/latest/download/Jarvis.zip",
+  "changelog": [
+    "Orb now reads as a 3D sphere - rings tilted on different axes like a gyroscope",
+    "Whole core slowly rotates to show real depth",
+    "Removed the audio waveform ring when listening and speaking",
+    "Still has the layered rings, arcs, scanners, nodes and particles"
+  ]
+}
