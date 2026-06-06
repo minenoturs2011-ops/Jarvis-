@@ -1,0 +1,10 @@
+{
+  "version": "6.0.8",
+  "download_url": "https://github.com/minenoturs2011-ops/Jarvis-/releases/latest/download/Jarvis.zip",
+  "changelog": [
+    "Update prompt now accepts a typed yes or no, not just spoken",
+    "Jarvis no longer role-plays as the movie character or mentions Tony Stark",
+    "He's now simply your own personal assistant",
+    "Various polish"
+  ]
+}
