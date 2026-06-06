@@ -1,0 +1,12 @@
+{
+  "version": "9.1.0",
+  "download_url": "https://github.com/minenoturs2011-ops/Jarvis-/releases/latest/download/Jarvis.zip",
+  "changelog": [
+    "Set volume to an exact percent - 'set volume to 40'",
+    "Ask 'what can you do' for a capability rundown",
+    "Ask 'system status' for a quick health report",
+    "Jarvis greets you by time of day - morning, afternoon, evening",
+    "Orb core now has a subtle live energy flicker",
+    "Faster voice and accurate date carried over from 9.0.0"
+  ]
+}
