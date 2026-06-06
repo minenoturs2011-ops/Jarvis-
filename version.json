@@ -1,0 +1,10 @@
+{
+  "version": "6.1.8",
+  "download_url": "https://github.com/minenoturs2011-ops/Jarvis-/releases/latest/download/Jarvis.zip",
+  "changelog": [
+    "Download now uses the GitHub API first - far more reliable",
+    "Jarvis reports the exact error code if a download fails",
+    "Handles pre-releases and any asset name",
+    "Better update diagnostics"
+  ]
+}
