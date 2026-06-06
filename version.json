@@ -1,0 +1,10 @@
+{
+  "version": "6.1.2",
+  "download_url": "https://github.com/minenoturs2011-ops/Jarvis-/releases/latest/download/Jarvis.zip",
+  "changelog": [
+    "Orb now stays blue the whole time Jarvis is speaking - no more flicker",
+    "Updates cleanly close Jarvis and reopen a fresh window",
+    "No more overlap or stale processes after updating",
+    "Smoother streaming speech"
+  ]
+}
