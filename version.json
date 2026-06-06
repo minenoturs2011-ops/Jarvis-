@@ -1,0 +1,9 @@
+{
+  "version": "8.9.1",
+  "download_url": "https://github.com/minenoturs2011-ops/Jarvis-/releases/latest/download/Jarvis.zip",
+  "changelog": [
+    "Particles now drift randomly across the screen instead of upward",
+    "Bigger orb",
+    "Camera adjusted so the larger orb fits nicely"
+  ]
+}
