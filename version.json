@@ -1,10 +1,11 @@
 {
-  "version": "9.1.2",
+  "version": "9.2.0",
   "download_url": "https://github.com/minenoturs2011-ops/Jarvis-/releases/latest/download/Jarvis.zip",
   "changelog": [
-    "Fixed speech cutting off mid-sentence - speech now plays on one channel and waits",
-    "Larger audio buffer to stop stutter",
-    "Sentence fragments no longer spoken as choppy clips",
-    "HUD pushed further into the corner and bottom, away from the orb"
+    "Local speech recognition (Vosk) is now the default - no more Google round-trip",
+    "Spoken commands are much faster, and work fully offline",
+    "Speech model preloads at startup so the first command is quick",
+    "Auto-downloads the speech model on first launch",
+    "Falls back to online recognition only if no local model is present"
   ]
 }
