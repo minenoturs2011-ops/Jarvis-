@@ -1,11 +1,10 @@
 {
-  "version": "9.2.0",
+  "version": "9.2.1",
   "download_url": "https://github.com/minenoturs2011-ops/Jarvis-/releases/latest/download/Jarvis.zip",
   "changelog": [
-    "Local speech recognition (Vosk) is now the default - no more Google round-trip",
-    "Spoken commands are much faster, and work fully offline",
-    "Speech model preloads at startup so the first command is quick",
-    "Auto-downloads the speech model on first launch",
-    "Falls back to online recognition only if no local model is present"
+    "Fixed the 'file in use' error when downloading the speech model",
+    "Download and extraction now happen safely in one step",
+    "Detects and warns about incomplete speech models instead of crashing",
+    "Cleans up stale downloads automatically"
   ]
 }
