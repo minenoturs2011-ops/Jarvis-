@@ -1,0 +1,10 @@
+{
+  "version": "8.8.0",
+  "download_url": "https://github.com/minenoturs2011-ops/Jarvis-/releases/latest/download/Jarvis.zip",
+  "changelog": [
+    "Fixed the giant blue blob - core is now properly sized",
+    "Removed the broken beam slashing through the orb",
+    "Brighter, clearer rings",
+    "Orb scaled up to fill more of the screen"
+  ]
+}
