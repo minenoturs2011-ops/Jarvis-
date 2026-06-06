@@ -1,0 +1,11 @@
+{
+  "version": "7.0.1",
+  "prerelease": true,
+  "download_url": "https://github.com/minenoturs2011-ops/Jarvis-/releases/download/v7.0.1-beta/Jarvis.zip",
+  "changelog": [
+    "PRE-RELEASE - experimental, may be unstable",
+    "Downloads now work through GitHub automatically",
+    "All v7 features plus the latest fixes",
+    "Reliable restart and steady speaking orb"
+  ]
+}

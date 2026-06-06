@@ -1,0 +1,10 @@
+{
+  "version": "6.1.7",
+  "download_url": "https://github.com/minenoturs2011-ops/Jarvis-/releases/latest/download/Jarvis.zip",
+  "changelog": [
+    "Updates now find the download via GitHub automatically, even pre-releases",
+    "Fixed download not found errors",
+    "Reliable restart after updating",
+    "Orb stays blue while speaking"
+  ]
+}
