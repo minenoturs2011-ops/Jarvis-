@@ -1,10 +1,10 @@
 {
-  "version": "10.0.1",
+  "version": "10.0.2",
   "download_url": "https://github.com/minenoturs2011-ops/Jarvis-/releases/latest/download/Jarvis.zip",
   "changelog": [
-    "Fewer particles for a cleaner look and better performance",
-    "Jarvis now knows his real version and won't make one up",
-    "Announces what's new automatically after an update",
-    "More version-question phrasings recognized"
+    "You can now opt into pre-release builds - say 'enable pre-release'",
+    "Then 'check for pre-release' to try experimental versions early",
+    "Say 'disable pre-release' to return to stable only",
+    "Stability and polish"
   ]
 }

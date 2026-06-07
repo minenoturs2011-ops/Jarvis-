@@ -1,0 +1,11 @@
+{
+  "version": "11.0.0",
+  "prerelease": true,
+  "download_url": "https://github.com/minenoturs2011-ops/Jarvis-/releases/download/v11.0.0-beta/Jarvis.zip",
+  "changelog": [
+    "PRE-RELEASE: Helios - experimental build",
+    "Stark-style corner HUD brackets frame the orb",
+    "Brackets pulse and recolor with Jarvis's state",
+    "Early access - may be rough around the edges"
+  ]
+}
