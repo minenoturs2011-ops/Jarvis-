@@ -1,12 +1,10 @@
 {
-  "version": "10.0.0",
+  "version": "10.0.1",
   "download_url": "https://github.com/minenoturs2011-ops/Jarvis-/releases/latest/download/Jarvis.zip",
   "changelog": [
-    "HYPERION - full code audit and optimization pass",
-    "Fixed a crash when enabling developer mode by voice",
-    "Faster command matching with no per-command reflection overhead",
-    "Understands more natural phrasing - strips 'could you', 'please', 'for me'",
-    "Cleaned dead imports across all 34 modules",
-    "Local speech, accurate date, and smooth streaming carried forward"
+    "Fewer particles for a cleaner look and better performance",
+    "Jarvis now knows his real version and won't make one up",
+    "Announces what's new automatically after an update",
+    "More version-question phrasings recognized"
   ]
 }
