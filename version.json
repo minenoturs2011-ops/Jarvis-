@@ -1,10 +1,12 @@
 {
-  "version": "9.2.1",
+  "version": "10.0.0",
   "download_url": "https://github.com/minenoturs2011-ops/Jarvis-/releases/latest/download/Jarvis.zip",
   "changelog": [
-    "Fixed the 'file in use' error when downloading the speech model",
-    "Download and extraction now happen safely in one step",
-    "Detects and warns about incomplete speech models instead of crashing",
-    "Cleans up stale downloads automatically"
+    "HYPERION - full code audit and optimization pass",
+    "Fixed a crash when enabling developer mode by voice",
+    "Faster command matching with no per-command reflection overhead",
+    "Understands more natural phrasing - strips 'could you', 'please', 'for me'",
+    "Cleaned dead imports across all 34 modules",
+    "Local speech, accurate date, and smooth streaming carried forward"
   ]
 }
